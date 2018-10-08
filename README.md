@@ -17,6 +17,7 @@ This project is maintained by the [Humane Tech Community](https://community.huma
 | Campaign | Theme | Status | Description | Location |
 | :--- | :---: | :---: | :--- | :---: |
 | **Phone Zombies** | Reality Shock | Idea | Beware the Phone Zombie! They are all around us. Awareness through language and imagery. | [phone-zombies](campaigns/phone-zombies) |
+| **Mankind 2.0** | Reality Shock | Idea | Series of short, dramatic videos leading to introspection and pondering the question: "Are we really fine with this?" | [mankind-2.0](campaigns/mankind-2.0) |
 
 
 ## Contributing
