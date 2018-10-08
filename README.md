@@ -8,16 +8,18 @@ This project is maintained by the [Humane Tech Community](https://community.huma
 
 ## Campaign themes
 
-| Theme | Status | Description | Location |
+| Theme | Discussion | Description | Location |
 | :--- | :---: | :--- | :---: |
-| [**Reality Shock**](https://github.com/humanetech-community/humanetech-community-awareness/issues/1) | Ideation | Spreading dramatic, or even shocking video's to raise public awareness on Humane Tech topics | [reality-shock](themes/reality-shock) |
+| [**Mankind 2.0**](themes/mankind-2.0/README.md) | proposal, [forum](https://community.humanetech.com/t/humanity-2-0-campaign-theme-making-people-aware-how-technology-impacts-their-lives/2785) | Making people aware how technology impacts their lives | [mankind-2.0](themes/mankind-2.0) |
+| [**Speak Easy**](themes/speak-easy/README.md) | proposal, [forum](https://community.humanetech.com/t/speak-easy-campaign-theme-introducing-language-to-change-habits-and-culture/2786) | Introducing language to change habits and culture | [mankind-2.0](themes/speak-easy) |
+| [**Tech Wise**](themes/tech-wise/README.md) | proposal, (https://community.humanetech.com/t/tech-wise-campaign-theme-promoting-prudent-technology-use-in-child-education/2772) | Promoting prudent technology use in child education | [tech-wise](themes/tech-wise) |
 
-## Ongoing campaigns
+## Campaigns
 
-| Campaign | Theme | Status | Description | Location |
+| Campaign | Theme | Discussion | Description | Location |
 | :--- | :---: | :---: | :--- | :---: |
-| **Phone Zombies** | Reality Shock | Idea | Beware the Phone Zombie! They are all around us. Awareness through language and imagery. | [phone-zombies](campaigns/phone-zombies) |
-| **Mankind 2.0** | Reality Shock | Idea | Series of short, dramatic videos leading to introspection and pondering the question: "Are we really fine with this?" | [mankind-2.0](campaigns/mankind-2.0) |
+| [**Phone Zombies**](campaigns/phone-zombies/README.md) | [**Speak Easy**](themes/speak-easy/README.md) | proposal, [forum](https://community.humanetech.com/t/phone-zombies-campaign-anchoring-the-term-phone-zombies-in-common-language/2710) | Anchoring the term "Phone Zombies" in common language | [phone-zombies](campaigns/phone-zombies) |
+| [**Reality Shock**](campaigns/reality-shock/README.md) | [**Mankind 2.0**](themes/mankind-2.0/README.md) | [proposal](https://github.com/humanetech-community/humanetech-community-awareness/issues/7), [forum](https://community.humanetech.com/t/reality-shock-campaign-producing-short-dramatic-videos-to-raise-awareness/2767) | Using short, dramatic video's to shock people into awareness | [reality-shock](campaigns/reality-shock) |
 
 
 ## Contributing
