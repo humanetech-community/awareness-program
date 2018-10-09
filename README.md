@@ -4,10 +4,14 @@
 
 This project is maintained by the [Humane Tech Community](https://community.humanetech.com). In this space our members collaborate to create (social) media campaigns that aim to inform the wider public on the problems that come with modern technology and the need to address these by applying Humane Technology. Of course, non-members can contribute just as well, though - if you are as concerned as us about the impact of technology on our society - we heartily invite you to join our community!
 
-## Notes to new members of this space
+## Guidelines for new users
 
-- First time on Github? Take your first steps by joining the discussions in so-called "Issues", or create your own issue to discuss any subject you deem important to discuss at the current stage. Meanwhile, under the "Code" tab, you will find all content and resources in a structured folder-like structure. Before new content and resources are added, they are first discussed in the "Issues" tab.
-- Current stage: Discussing proposed descriptions of campaign themes, campaigns (a specific campaign falls under a campaign theme), and deliverables (e.g. concept and scripts of first two videos of the campaign "Reality Shock")
+- First time on Github? Take your first steps by joining the discussions in so-called "Issues", or create your own issue to discuss any subject you deem important to discuss at the current stage. Meanwhile, under the "Code" tab, you will find all content and resources in a structured folder hierarchy. Before new content and resources are added, they are first discussed on the [Issue tracker](https://github.com/humanetech-community/humanetech-community-awareness/issues).
+- When creating a new issue there are several types you can choose from. Most issues will be of type 'Regular issue', but templates are available to help you propose a new Theme, Campaign, or Deliverable which you should use. Proposal types are:
+  - [Theme proposal](.github/ISSUE_TEMPLATE/theme-proposal.md) - Propose a new theme for awareness campaigns ([raw text with comments](https://raw.githubusercontent.com/humanetech-community/humanetech-community-awareness/master/.github/ISSUE_TEMPLATE/theme-proposal.md))
+  - [Campaign proposal](.github/ISSUE_TEMPLATE/campaign-proposal.md) - Propose a new awareness campaign ([raw text with comments](https://raw.githubusercontent.com/humanetech-community/humanetech-community-awareness/master/.github/ISSUE_TEMPLATE/campaign-proposal.md))
+  - [Video deliverable proposal](.github/ISSUE_TEMPLATE/video-deliverable-proposal.md) - Propose a new deliverable for producing a video ([raw text with comments](https://raw.githubusercontent.com/humanetech-community/humanetech-community-awareness/master/.github/ISSUE_TEMPLATE/video-deliverable-proposal.md))
+- We are continuously improving this space to make it easier for you to participate. If you have any feedback or ideas, or need help, do not hesitate, and create an issue, or discuss on our [community forum](https://community.humanetech.com) in an appropriate topic (topic links are referenced, where available).
 
 ## Project organization
 
@@ -16,7 +20,7 @@ The project is structured as follows:
 - **Discussion and tasks** - Refer to the [Issue tracker](https://github.com/humanetech-community/humanetech-community-awareness/issues)
 - **Campaign themes** - Theme resources are in subfolders of `/themes`
 - **Campaigns** - Campaign resources are in subfolders of `/campaigns`
-- **Strategy** - General information on campaign strategy, marketing and promotion
+- **Strategy** - General info about marketing, promotion, funding is in `/strategy`
 
 ## Campaign themes
 
