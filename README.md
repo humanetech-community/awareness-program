@@ -7,7 +7,7 @@ This project is maintained by the [Humane Tech Community](https://community.huma
 ## Notes to new members of this space
 
 - First time on Github? Take your first steps by joining the discussions in so-called "Issues", or create your own issue to discuss any subject you deem important to discuss at the current stage. Meanwhile, under the "Code" tab, you will find all content and resources in a structured folder-like structure. Before new content and resources are added, they are first discussed in the "Issues" tab.
-- Current stage: Discussing proposed descriptions of campaign themes, campaigns (a specific campaign falls under a campaign theme), and deliverables (e.g. concept and script of first video of the campaign "Reality Shock")
+- Current stage: Discussing proposed descriptions of campaign themes, campaigns (a specific campaign falls under a campaign theme), and deliverables (e.g. concept and scripts of first two videos of the campaign "Reality Shock")
 
 ## Project organization
 
