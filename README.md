@@ -17,7 +17,7 @@ The project is structured as follows:
 
 | Theme | Discussion | Description |
 | :--- | :---: | :--- |
-| [**Mankind 2.0**](themes/mankind-2.0) | [proposal](https://github.com/humanetech-community/humanetech-community-awareness/issues/1), [forum](https://community.humanetech.com/t/humanity-2-0-campaign-theme-making-people-aware-how-technology-impacts-their-lives/2785) | Making people aware how technology impacts their lives |
+| [**Mankind 2.0**](themes/mankind-2.0) | [proposal](https://github.com/humanetech-community/humanetech-community-awareness/issues/1), [forum](https://community.humanetech.com/t/humanity-2-0-campaign-theme-making-people-aware-how-technology-impacts-their-lives/2785) | Raising awareness of the impact of technology on our society |
 | [**Speak Easy**](themes/speak-easy) | proposal, [forum](https://community.humanetech.com/t/speak-easy-campaign-theme-introducing-language-to-change-habits-and-culture/2786) | Introducing language to change habits and culture |
 | [**Tech Wise**](themes/tech-wise) | proposal, [forum](https://community.humanetech.com/t/tech-wise-campaign-theme-promoting-prudent-technology-use-in-child-education/2772) | Promoting prudent technology use in child education |
 
