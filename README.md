@@ -4,6 +4,11 @@
 
 This project is maintained by the [Humane Tech Community](https://community.humanetech.com). In this space our members collaborate to create (social) media campaigns that aim to inform the wider public on the problems that come with modern technology and the need to address these by applying Humane Technology. Of course, non-members can contribute just as well, though - if you are as concerned as us about the impact of technology on our society - we heartily invite you to join our community!
 
+## Notes to new members of this space
+
+- First time on Github? Take your first steps by joining the discussions in so-called "Issues", or create your own issue to discuss any subject you deem important to discuss at the current stage. Meanwhile, under the "Code" tab, you will find all content and resources in a structured folder-like structure. Before new content and resources are added, they are first discussed in the "Issues" tab.
+- Current stage: Discussing proposed descriptions of campaign themes, campaigns (a specific campaign falls under a campaign theme), and deliverables (e.g. concept and script of first video of the campaign "Reality Shock")
+
 ## Project organization
 
 The project is structured as follows:
