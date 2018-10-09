@@ -1,6 +1,6 @@
 ---
 name: Video deliverable proposal
-about: Propose a new deliverable for an awareness campaign
+about: Propose a new deliverable for producing a video
 
 ---
 
