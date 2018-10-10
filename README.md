@@ -13,7 +13,7 @@ This project is maintained by the [Humane Tech Community](https://community.huma
   - [Video deliverable proposal](.github/ISSUE_TEMPLATE/video-deliverable-proposal.md) - Propose a new deliverable for producing a video ([raw text with comments](https://raw.githubusercontent.com/humanetech-community/humanetech-community-awareness/master/.github/ISSUE_TEMPLATE/video-deliverable-proposal.md))
 - We are continuously improving this space to make it easier for you to participate. If you have any feedback or ideas, or need help, do not hesitate, and create an issue, or discuss on our [community forum](https://community.humanetech.com) in an appropriate topic (topic links are referenced, where available).
 - Issues will have many comments, where ideas and alternatives are proposed. A thread can become too long (TL;DR) really quick, so refrain from giving comments that do not add value, and when commenting keep your text terse and concise.
-- It is important you let others know you agree :+1:, or disagree :-1:, or even love :heart: her/his comment. To do this, you can select an emoticon from the top-right corner button of the comment. Use them in a serious matter to indicate intent, so they do not become meaningless!
+- It is important you let others know you agree :+1:, or disagree :-1:, or even love :heart: her/his comment or issue. To do this, you can select an emoticon from the top-right corner button of the comment. Use them in a serious manner to indicate intent, so they do not become meaningless!
 
 ## Project organization
 
