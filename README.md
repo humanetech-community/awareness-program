@@ -14,6 +14,7 @@ This project is maintained by the [Humane Tech Community](https://community.huma
 - We are continuously improving this space to make it easier for you to participate. If you have any feedback or ideas, or need help, do not hesitate, and create an issue, or discuss on our [community forum](https://community.humanetech.com) in an appropriate topic (topic links are referenced, where available).
 - Issues will have many comments, where ideas and alternatives are proposed. A thread can become too long (TL;DR) really quick, so refrain from giving comments that do not add value, and when commenting keep your text terse and concise.
 - It is important you let others know you agree :+1:, or disagree :-1:, or even love :heart: her/his comment or issue. To do this, you can select an emoticon from the top-right corner button of the comment. Use them in a serious manner to indicate intent, so they do not become meaningless!
+- Be careful, when commenting, that you are on-topic to the issue at hand. If not, it is way better to create a new issue, and add a link to the original issue, plus the relevant quoted text. Github will then create a cross-reference automatically. (You can quote by prepending the quoted text with a `>` character per paragraph / new line. Use "Preview" to see how your formatting looks).
 
 ## Project organization
 
