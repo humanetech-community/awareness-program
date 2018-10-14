@@ -29,6 +29,7 @@ The project is structured as follows:
 
 | Theme | Discussion | Description |
 | :--- | :---: | :--- |
+| [**Dogfooding**](themes/dogfooding) | [proposal](https://github.com/humanetech-community/humanetech-community-awareness/issues/20), [forum](https://community.humanetech.com/t/dogfooding-using-campaigns-to-strengthen-our-projects-and-community/2825) | Using campaigns to strengthen our projects and community |
 | [**Mankind 2.0**](themes/mankind-2.0) | [proposal](https://github.com/humanetech-community/humanetech-community-awareness/issues/1), [forum](https://community.humanetech.com/t/humanity-2-0-campaign-theme-making-people-aware-how-technology-impacts-their-lives/2785) | Raising awareness of the impact of technology on our society |
 | [**Speak Easy**](themes/speak-easy) | proposal, [forum](https://community.humanetech.com/t/speak-easy-campaign-theme-introducing-language-to-change-habits-and-culture/2786) | Introducing language to change habits and culture |
 | [**Tech Wise**](themes/tech-wise) | proposal, [forum](https://community.humanetech.com/t/tech-wise-campaign-theme-promoting-prudent-technology-use-in-child-education/2772) | Promoting prudent technology use in child education |
@@ -37,6 +38,7 @@ The project is structured as follows:
 
 | Campaign | Theme | Discussion | Description |
 | :--- | :---: | :---: | :--- |
+| [**Aware Prepare**](campaigns/aware-prepare) | [Dogfooding](themes/dogfooding/README.md) | [proposal](https://github.com/humanetech-community/humanetech-community-awareness/issues/24), [forum](https://community.humanetech.com/t/phone-zombies-campaign-anchoring-the-term-phone-zombies-in-common-language/2710) | Growth hacking the Awareness Campaigns project |
 | [**Phone Zombies**](campaigns/phone-zombies) | [Speak Easy](themes/speak-easy/README.md) | proposal, [forum](https://community.humanetech.com/t/phone-zombies-campaign-anchoring-the-term-phone-zombies-in-common-language/2710) | Anchoring the term "Phone Zombies" in common language |
 | [**Reality Shock**](campaigns/reality-shock) | [Mankind 2.0](themes/mankind-2.0/README.md) | [proposal](https://github.com/humanetech-community/humanetech-community-awareness/issues/7), [forum](https://community.humanetech.com/t/reality-shock-campaign-producing-short-dramatic-videos-to-raise-awareness/2767) | Using short, dramatic video's to shock people into awareness |
 
