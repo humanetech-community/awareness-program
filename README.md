@@ -42,6 +42,7 @@ The project is structured as follows:
 | [**Aware Prepare**](campaigns/aware-prepare) | [Dogfooding](themes/dogfooding/README.md) | [proposal](https://github.com/humanetech-community/humanetech-community-awareness/issues/24), [forum](https://community.humanetech.com/t/phone-zombies-campaign-anchoring-the-term-phone-zombies-in-common-language/2710) | Growth hacking the Awareness Campaigns project |
 | [**Phone Zombies**](campaigns/phone-zombies) | [Speak Easy](themes/speak-easy/README.md) | [proposal](https://github.com/humanetech-community/humanetech-community-awareness/issues/25), [forum](https://community.humanetech.com/t/phone-zombies-campaign-anchoring-the-term-phone-zombies-in-common-language/2710) | Anchoring the term "Phone Zombies" in common language |
 | [**Reality Shock**](campaigns/reality-shock) | [Mankind 2.0](themes/mankind-2.0/README.md) | [proposal](https://github.com/humanetech-community/humanetech-community-awareness/issues/7), [forum](https://community.humanetech.com/t/reality-shock-campaign-producing-short-dramatic-videos-to-raise-awareness/2767) | Using short, dramatic video's to shock people into awareness |
+| [**Computer Says No**](campaigns/computer-says-no) | [Speak Easy](themes/speak-easy/README.md) | [proposal](https://github.com/humanetech-community/humanetech-community-awareness/issues/28), [forum](https://community.humanetech.com/t/computer-says-no-little-britains-famous-meme-but-with-a-humane-tech-twist/2845) | Little Britain's famous meme, but with a Humane Tech twist |
 
 ## Contributing
 
