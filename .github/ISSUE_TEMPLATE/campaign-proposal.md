@@ -20,11 +20,15 @@ about: Propose a new awareness campaign
 ## Info 
 
 <!-- Provide short name that reflects the gist of the campaign, used as working title.
-      Also add the link to community forum topic that is used for general discussion. -->
+      Also add the link to community forum topic that is used for general discussion. 
+
+      Valid values for 'Status' are: Ideation, Preparing, Launched, Finished
+-->
 
 - Name: **[Campaign name]**
 - Theme: [Theme name here](url-to-theme-readme)
 - General discussion: [Forum topic title here](forum-topic-url)
+- Status: Ideation
 
 ## Summary 
 
@@ -117,4 +121,4 @@ This video, given by John Doe, shows how effective mini-breaks are, and how to r
 
 <!-- (optional) Links to relevant folders, files and external information, or leave the placeholder text. -->
 
-- This theme has no additional resources. Please edit or comment to add your relevant links.
+- This campaign has no additional resources. Please edit or comment to add your relevant links.

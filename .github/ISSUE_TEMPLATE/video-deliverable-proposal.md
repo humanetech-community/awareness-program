@@ -22,12 +22,15 @@ about: Propose a new deliverable for producing a video
 <!-- Provide short name, which is actual title that is used when publishing. Also add the link to community forum topic that is used for general discussion.
 
 The deliverable type is , in this case, 'Video'. For other deliverables this can be anything, such as Website, Image, Blog, Press Release, Meetup, Advert, etc.
+
+Valid values for 'Status' are: Ideation, Preparing, Launched, Finished
 -->
 
 - Name: **[Deliverable name]**
 - Type: **Video**
 - Campaign: [Campaign name here](url-to-campaign-readme)
 - General discussion: [Forum topic title here](forum-topic-url)
+- Status: Ideation
 
 ## Summary 
 
