@@ -4,11 +4,7 @@ The subfolders in this project section contain resources on ongoing campaign the
 
 ## Current themes
 
-The following Themes have been defined so far:
-
-- [Mankind 2.0](mankind-2.0/README.md) - Making people aware how technology impacts their lives
-- [Speak Easy](speak-easy/README.md) - Introducing language to change habits and culture
-- [Tech Wise](tech-wise/README.md) - Promoting prudent technology use in child education
+The overview of themes can be found in the main project README: [Campaign Themes](../README.md#campaign-themes)
 
 ## Theme ideas
 

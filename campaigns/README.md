@@ -4,12 +4,7 @@ The subfolders in this project section contain the materials related to individu
 
 ## Ongoing campaigns
 
-The following campaigns are being created, or executed right now:
-
-| Campaign | Theme | Description |
-| :--- | :---: | :--- |
-| [Reality Shock](reality-shock/README.md) | [Mankind 2.0](../theme/mankind-2.0/README.md) | |
-| [Phone Zombies](phone-zombies/README.md) | [Speak Easy](../themes/speak-easy/README.md) | Anchoring the term "Phone Zombies" in common language. |
+The overview of campaigns can be found in the main project README: [Campaigns](../README.md#campaigns)
 
 ## Campaign ideas
 
