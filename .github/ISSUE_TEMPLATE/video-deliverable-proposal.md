@@ -24,13 +24,19 @@ about: Propose a new deliverable for producing a video
 The deliverable type is , in this case, 'Video'. For other deliverables this can be anything, such as Website, Image, Blog, Press Release, Meetup, Advert, etc.
 
 Valid values for 'Status' are: Ideation, Preparing, Launched, Finished
+Valid values for 'Affiliation' are: Official, Unofficial
+Original idea: Link to forum user that first came up with campaign idea
+Coordinator: Link to forum user responsible for coordinating tasks for this campaign, or 'TBD'
 -->
 
 - Name: **[Deliverable name]**
 - Type: **Video**
 - Campaign: [Campaign name here](url-to-campaign-readme)
-- General discussion: [Forum topic title here](forum-topic-url)
 - Status: Ideation
+- Affiliation: Unofficial
+- Original idea: [forum username here](link-to-user-profile-summary)
+- Coordinator: TBD
+- General discussion: [Forum topic title here](forum-topic-url)
 
 ## Summary 
 

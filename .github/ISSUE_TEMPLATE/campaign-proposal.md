@@ -23,12 +23,18 @@ about: Propose a new awareness campaign
       Also add the link to community forum topic that is used for general discussion. 
 
       Valid values for 'Status' are: Ideation, Preparing, Launched, Finished
+      Valid values for 'Affiliation' are: Official, Unofficial
+      Original idea: Link to forum user that first came up with campaign idea
+      Coordinator: Link to forum user responsible for coordinating tasks for this campaign, or 'TBD'
 -->
 
 - Name: **[Campaign name]**
 - Theme: [Theme name here](url-to-theme-readme)
-- General discussion: [Forum topic title here](forum-topic-url)
 - Status: Ideation
+- Affiliation: Unofficial
+- Original idea: [forum username here](link-to-user-profile-summary)
+- Coordinator: TBD
+- General discussion: [Forum topic title here](forum-topic-url)
 
 ## Summary 
 
