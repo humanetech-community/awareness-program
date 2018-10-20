@@ -18,6 +18,10 @@
 
 - Name: **Aware Prepare**
 - Theme: [Dogfooding](themes/dogfooding/README.md)
+- Status: Launched
+- Affilliation: Official
+- Original idea: N/A
+- Coordinator: @aschrijver
 - General discussion: [This forum topic](https://community.humanetech.com/t/aware-prepare-growth-hacking-the-awareness-campaigns-project/2839)
 
 ## Summary 
@@ -30,17 +34,18 @@ Crowdsourcing means, finding a crowd of contributors. This campaign is about gro
 
 <!-- Bullet list of the intended effects of the campaign, separated by empty lines. -->
 
-- Reach out to the target audience across all (social) media channels, and personal networks.
+- Reach out to the target audience across the personal channels of community members.
 
-- Make people aware how they can join, and be part of the solution to their growing tech worries.
+- Entice people to join as cooperator, and guide them through the onboarding process.
 
-- Apply targeted recruitment tactics to find people in the roles we need for ongoing campaigns
+- Help new cooperaters to find fitting project roles and activities to participate in.
 
 ## Audience
 
 <!-- The demographic audience the campaign is targeted to. -->
 
-- Everyone that is aware of our tech problems, and willing to help address it, but doesn't know how.
+- Every person that is a serious prospect to become a true Humane Tech activist.
+  - This means willing to help campaigning, willing to spend time improving.
 
 ## Success criteria
 
@@ -48,8 +53,9 @@ Crowdsourcing means, finding a crowd of contributors. This campaign is about gro
 
 The success criteria will need to be updated as the project comes along, but currently are:
 
-- Demonstrate there is a large body of people out there that are ready to be activated
-- Find the right people in the appropriate roles needed to execute our first campaigns with success
+- Maintain a steady growth of activists and campaigners across the 5 stages of involvement (see [Strategy](#strategy).
+- Daily and growing activity on open tasks in the project Issue tracker, and reporting back to the forum.
+- Assignment of active cooperators to newly defined project roles, to distribute project responsibilities.
 
 ## Retrospective
 
@@ -62,7 +68,7 @@ The success criteria will need to be updated as the project comes along, but cur
 
 <!-- A longer, more elaborate description (one or more paragraphs of text) -->
 
-The awareness campaigns that are defined in this project are complex beasts. They need lots of skills, coordination and activity by many contributors. A single campaign can only succeed if there are enough of the right people willing to spend their time on it. Likewise, the more contributors we find, the more campaigns that we can work on in parallel.
+The awareness campaigns that are defined in this project are complex beasts. They involve lots of skills, coordination and activity by many contributors. A single campaign can only succeed if there are enough of the right people willing to spend their time on it. Likewise, the more contributors we find, the more campaigns that we can work on in parallel.
 
 So the first part of this campaign involves the community building and growth hacking that is required to get more people on board.
 
@@ -70,6 +76,8 @@ The second - and even more important - part, constitutes of improving the onboar
 
 - People feel directly at home, and can inform themselves on how best to start contributing.
 - New members become active in this campaign and help with the growth hacking of the project.
+
+Finally, to keep the project manageable, the project responsibilities need delegated to separate project roles that have people assigned to them that are willing and able to fulfill them.
 
 ## Deliverables
 
@@ -100,7 +108,25 @@ The benefits and rewards will be developing strategies that can be applied to ot
 - This campaign does not require a strategy. Strategy is defined on the Theme, or in Deliverables.
  -->
 
-- TODO Summarize strategy here, but details are in the Project and Growth Hacking guides.
+Growth hacking for awareness campaigns ultimately means finding the right people that can work together efficiently and be productive campaigners. Though we want to lower the barrier to participation as much as possible, many people need to be gradually instructed and helped along the onboarding process. This process is important, as we do not want people on the sidelines that obstruct this process, hampering progress or even actively try to demolish the project (e.g. trolls).
+
+Therefore onboarding will go through 5 different stages of ever deeper involvement and participation:
+
+
+0. It starts with the CHT Facebook group. People here are not community members. They are **prospects**.
+1. Then we have the community forum, with ‘readers’ and more active **members** who post and discuss.
+2. Going to Awareness Campaigns, we have the Campaigners group, with our **campaigners**, this team.
+3. Followed by **contributors** and **maintainers** of the Github awareness project.
+4. Broadening out, we have **team members** of the Github organization that work across all projects.
+5. And finally at individual issue (or task) level we have **assignees** responsible for tasks.
+
+The Aware Prepare campaign is long-running (never ends), and the separate [Strategy document](strategy-document.md) defines the activities that are planned.
+
+Strategy details:
+
+- [Social media channels](strategy-document.md#social-media-channels)
+- [Ongoing activities](strategy-document.md#ongoing-activities)
+- [Activity planning](strategy-document.md#activity-planning)
 
 ## Funding
 
