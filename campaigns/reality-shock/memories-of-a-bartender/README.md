@@ -22,6 +22,9 @@ The deliverable type is , in this case, 'Video'. For other deliverables this can
 - Name: **Memories of a bartender**
 - Type: **Video**
 - Campaign: [Reality shock](campaigns/reality-shock/README.md)
+- Status: Ideation
+- Original idea: [micheleminno](https://community.humanetech.com/u/micheleminno/summary)
+- Coordinator: TBD
 - General discussion: [Forum topic title here](forum-topic-url)
 
 ## Summary 

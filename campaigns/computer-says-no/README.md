@@ -19,7 +19,7 @@
 - Name: **Computer Says No**
 - Theme: [Speak Easy](themes/speak-easy/README.md)
 - Status: Ideation
-- Original idea: @aschrijver 
+- Original idea: [aschrijver](https://community.humanetech.com/u/aschrijver/summary) 
 - Coordinator: TBD
 - General discussion: [This forum topic](https://community.humanetech.com/t/computer-says-no-little-britains-famous-meme-but-with-a-humane-tech-twist/2845)
 

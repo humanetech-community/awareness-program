@@ -18,6 +18,9 @@
 
 - Name: **Reality Shock**
 - Theme: [Mankind 2.0](https://github.com/humanetech-community/humanetech-community-awareness/issues/12)
+- Status: Ideation
+- Original idea: [Georges](https://community.humanetech.com/u/georges/summary)
+- Coordinator: TBD
 - General discussion: [This forum topic](https://community.humanetech.com/t/reality-shock-campaign-using-short-dramatic-videos-to-shock-people-into-awareness/2824)
 
 ## Summary 

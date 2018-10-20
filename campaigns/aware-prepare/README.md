@@ -21,7 +21,7 @@
 - Status: Launched
 - Affilliation: Official
 - Original idea: N/A
-- Coordinator: @aschrijver
+- Coordinator: [aschrijver](https://community.humanetech.com/u/aschrijver/summary)
 - General discussion: [This forum topic](https://community.humanetech.com/t/aware-prepare-growth-hacking-the-awareness-campaigns-project/2839)
 
 ## Summary 
