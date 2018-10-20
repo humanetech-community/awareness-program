@@ -19,6 +19,7 @@
 - Name: **Phone Zombies**
 - Theme: [Speak Easy](themes/speak-easy/README.md)
 - Status: Ideation
+- Affiliation: Unofficial
 - Original idea: [aschrijver](https://community.humanetech.com/u/aschrijver/summary) 
 - Coordinator: TBD
 - General discussion: [This forum topic](https://community.humanetech.com/t/phone-zombies-campaign-anchoring-the-term-phone-zombies-in-common-language/2710)
