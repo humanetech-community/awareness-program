@@ -66,6 +66,7 @@ Terminology:
 | [Nomophobia](https://en.m.wikipedia.org/wiki/Nomophobia) | The phobia of being out of cellular phone contact | @healthyswimmer |
 | [Digital Pouting](https://www.indiatoday.in/education-today/gk-current-affairs/story/do-you-have-digital-technology-addiction-9-terms-that-you-need-to-know-1320051-2018-08-21) | Put headphone on, plug in the internet, when don't get your way. (Note: There are more terms on the linked page, like _"Selfitis"_) | @healthyswimmer |
 | [Do it for the Gram](https://www.urbandictionary.com/define.php?term=do%20it%20for%20the%20gram) | Do things in your life so you can take pictures and show off on instagram. | [@Georges](https://community.humanetech.com/u/georges/summary) |
+| Road Blocker | Someone that blocks the street, an entrance, or an escalator because he/she is staring into their smartphone and forgets their surroundings. | @healthyswimmer |
 
 Memes:
 
