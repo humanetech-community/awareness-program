@@ -83,23 +83,29 @@ Finally, to keep the project manageable, the project responsibilities need deleg
 
 <!-- Sub-headers with the planned deliverables and their summaries. Update this later to reflect changes.  The second sub-header gives an example. -->
 
-### Documentation: [Project Guide](deliverable-url) 
+### Documentation: [Project Guide](deliverable-url) (TODO)
 
 As we go along, and more members join, we learn from the questions they ask us, and the problems they have. This experience is used to improve both the project structure and workflows and documenting them in this Project Guide.
 
 This way we'll have to spend ever less time with the 'boring stuff' and more on reaching the public in exciting campaigns.
 
-### Activity: [We Need You](deliverable2-url)
+### Activity: [We Need You](deliverable2-url) (TODO)
 
 This is an application of the [Turning the weapon around](https://community.humanetech.com/t/idea-turning-the-weapon-around-raising-awareness/423) idea on the forum, a ongoing activity, where project members reinforce each other's social media promotion, by adding their own Likes, Shares, and add Comments.
 
 The added reward for participants in this activity is, that they can become more influential in their own social media channel, e.g. on LinkedIn, and develop their reputation.
 
-### Documentation: [Growth Hacking Guide](deliverable2-url)
+### Documentation: [Growth Hacking Guide](deliverable2-url) (TODO)
 
 As part of the _We Need You_ activity we will frequently update a Growth Hacking Guide with our lessons-learned - adding the things that worked best. This way others don't make the same mistakes when they first chime in to the growth hacking process, and campaign effectiveness continues to increase.
 
 The benefits and rewards will be developing strategies that can be applied to other campaigns and developing our own social media strategic skillset.
+
+### Website: [Humane Tech Community Home](https://github.com/humanetech-community/humanetech-community-website)
+
+Our community forum is just that: A discussion forum. The community needs an online presence to present itself and our ongoing activities to the outside world. This deliverable involves setting up the website at `humanetech.community` in a way that makes it easy to maintain collectively by our members.
+
+The community website will be a place for blogging, news & announcements, meetup calendars and meetup sub-pages, project overviews and other subsections where specific Humane Tech topics can be addressed (like e.g. [Humane Tech Certification](https://community.humanetech.com/t/idea-humane-technology-logo-program/778) program, the crowd-sourced [Ledger of Harms](https://ledger.humanetech.com), etc.), and more.
 
 ## Strategy
 
@@ -124,9 +130,9 @@ The Aware Prepare campaign is long-running (never ends), and the separate [Strat
 
 Strategy details:
 
-- [Social media channels](strategy-document.md#social-media-channels)
-- [Ongoing activities](strategy-document.md#ongoing-activities)
-- [Activity planning](strategy-document.md#activity-planning)
+- [Social media channels](campaign-strategy.md#social-media-channels)
+- [Ongoing activities](campaign-strategy.md#ongoing-activities)
+- [Activity planning](campaign-strategy.md#activity-planning)
 
 ## Funding
 
