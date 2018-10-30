@@ -101,7 +101,11 @@ As part of the _We Need You_ activity we will frequently update a Growth Hacking
 
 The benefits and rewards will be developing strategies that can be applied to other campaigns and developing our own social media strategic skillset.
 
-### Website: [Humane Tech Community Home](https://github.com/humanetech-community/humanetech-community-website)
+### Website: [Humane Tech Community Home](https://github.com/humanetech-community/humanetech-community-website) (IN PROGRESS)
+
+The website at [`humanetech.community`](https://humanetech.community) is under construction. Landing page is ready:
+
+![Community Website Preview](campaigns/aware-prepare/community-website/site-preview.png)
 
 Our community forum is just that: A discussion forum. The community needs an online presence to present itself and our ongoing activities to the outside world. This deliverable involves setting up the website at `humanetech.community` in a way that makes it easy to maintain collectively by our members.
 
