@@ -105,7 +105,7 @@ The benefits and rewards will be developing strategies that can be applied to ot
 
 The website at [`humanetech.community`](https://humanetech.community) is under construction. Landing page is ready:
 
-![Community Website Preview](campaigns/aware-prepare/community-website/site-preview.png)
+![Community Website Preview](community-website/site-preview.png)
 
 Our community forum is just that: A discussion forum. The community needs an online presence to present itself and our ongoing activities to the outside world. This deliverable involves setting up the website at `humanetech.community` in a way that makes it easy to maintain collectively by our members.
 
