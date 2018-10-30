@@ -106,7 +106,7 @@ On the final notes of the music, we conclude with a question on the screen.
 
 #### Elements of your proposal
 
-- Introduction, confirming your understanding of our theme, concept, and the objectives of our campaign and _A Coffee Place._
+- Introduction, confirming your understanding of our theme, concept, and the objectives of our campaign and proposed video. 
 - Your preliminary views on key issues (see above), comments on the script, and ideas about cinematic effects.
 - Possible shooting locations
 - Your preliminary views on the availability of actors/figurants.
