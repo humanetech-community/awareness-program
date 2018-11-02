@@ -10,7 +10,7 @@ Draft of the storyboard with relative music segments.
 ![Storyboard - first page](sb1.jpg)
 
 
-['60s scene music (time range: 01:12 - 01:28)   ](https://www.youtube.com/embed/VR90gQ-SIaY?start=72&end=88&autoplay=1)
+['60s scene music (time range: 01:17 - 01:30)   ](https://www.youtube.com/embed/VR90gQ-SIaY?start=77&end=90&autoplay=1)
 
 ['70s scene music (time range: 00:27 - 00:44)   ](https://www.youtube.com/embed/XpqqjU7u5Yc?start=27&end=44&autoplay=1)
 
