@@ -79,7 +79,7 @@ Here's the drafted [storyboard](storyboard.md).
 
 We see the face of the bartender at his side of the bar (we don't see the front bar, only the back, with bottles etc.), who says: "I'm here since 1956, this place has been my life".
 
-We see some old pictures at the wall behind him. Camera zooms into the first one ('50s one) and then scene passes to memories of the bartender. The still image comes to life and turns into the scene. Each time a scene ends, camera zooms out and shift to another picture (black/white for '50s and 60s, color for the others) and zooms in. Scenes are always color scene also for '50s and '60s.
+We see some old pictures at the wall behind him. Camera zooms into the first one (from the '50s) and then scene passes to memories of the bartender relative to that picture. The still image comes to life and turns into the live scene. Each time a scene ends, camera zooms out and shift to another picture (black/white for '50s and 60s, color for the others) and zooms in. Scenes are always color scene also for '50s and '60s.
 
 #### Memories scenes
 Scenes of the bar during the passing of decades, starting from the '50s. Each time a year is superimposed at the bottom of the screen. There's no stage in the bar so there's no scene with a band playing live. Also because it would be a cross-decades situation and not characteristic of a specific time.
@@ -95,20 +95,20 @@ A boy laughing and surrounded by his friends is pushed, blindfolded, to go to al
 * The bottom line says: "1968".
 * Music: White room, by Cream.
 
-Boys and girls are animately discussing (we can't hear their voice), with flayers, posters about some protest activity on the streets they are planning.
+Boys and girls are animately discussing (we can't hear their voice), with flayers, posters about some protest activity on the streets they are planning. Someone shows a manifest, all agree on it. Someone else screams: "Let's go outta here!", the others screaming with excitement:"Yeah! Yes! Let's go!". People go out on the streets and the bar remains full of smoke and empty. 
 
 
 ##### '70s scene
 * The bottom line says: "1977".
 * Music: How Deep Is Your Love, Bee Gees.
 
-People is warmly dancing in couples of all kinds (man-girl, man-man, girl-girl, ..), with all extravagant fashion and hairstyles.
+People is warmly dancing in couples of all kinds (man-girl, man-man, girl-girl, ..), with all extravagant fashion and hairstyles. Someone is dancing alone [John Travolta style in the "Fever of Saturday night"](https://www.imdb.com/title/tt0076666/mediaviewer/rm2829405696).
 
 ##### '80s scene
 * The bottom line says: "1987".
 * Music: Welcome to the jungle, Guns N' Roses.
 
-A fight among people in the bar, with broken glasses, chairs, etc.
+A discussion between two people at the front bar turns into a big fight among all people in the bar, with broken glasses, chairs, etc. The two people initially fighting one against the other, realise that behind them all the others start fighting too and they join the big fight together.
 
 ##### '90s scene
 * The bottom line says: "1994".
@@ -119,14 +119,14 @@ One girl is singing the song at the karaoke, followed by most of the other peopl
 
 ##### '00s scene
 * The bottom line says: "2003".
-* Music: Drum beat from "8 mile" movie
+* Music: Rap game, "8 mile" movie soundtrack
 
-There's a rap battle going on between two guys and all public inciting them.
+There's a rap battle going on between two guys and all public inciting them. Someone is playing at [DDR](https://it.wikipedia.org/wiki/Dance_Dance_Revolution).
 
 #### Present times scene
 * Music: Closer, The Chainsmokers ft. Halsey
 
-The face of the bartender comes back (same music as at the beginning). He says with a sad face: "Now it's all so silent and creepy." And after two seconds he shakes his head and says: "It's time for me to sell this place". The camera broadens, flips slowly and we see the bar now, full with silent people, each one seated and looking down on their phone screen. It all looks strange and creepy (sounds of tapping on screens). Screen black with white writing:"Are you one of them?".
+Camera zooms out from the last picture and the face of the bartender comes back (same music as at the beginning). He says with a sad face: "Now it's all so silent and creepy." And after two seconds he shakes his head and says: "It's time for me to sell this place". The camera broadens, flips slowly and we see the bar now, full with silent people, each one seated and looking down on their phone screen. It all looks strange and creepy (sounds of tapping on screens). Screen black with white writing: "Are you one of them?".
 
 ##### Insights about old bartender's feelings
 The old man feels the sadness but with words he tries to justify the situation. Maybe he doesn’t understand the new situation because he’s old (he thinks naively). He feels peace but also sadness, that’s why he want to quit. He is not against technology, in every decade he used technology to attract customers and make them feel good. I.e. karaoke in the '90s, arcade videogames, etc.. It must be evident by the images that all these technology generate sociality among customers, instead of repress it. At present time he's doing all it's needed to please customers (soft music, wifi, recharge points, ..) and he should be happy to have satisfied clients, silence and peace. But nevertheless we can see he's sad: there's a conflict inside himself between owner's goals (to maximize customers and keep the bar clean and safe) and human being's goals (live among people who relate to each other, socialise, express themselves). So he decides to quit. It is too much, and the place is no longer the place he loved to work in for decades.
@@ -134,7 +134,7 @@ The old man feels the sadness but with words he tries to justify the situation. 
 #### Final scene
 * Music: Tired boy, Joey Pecoraro
 
-We see the same bar, with even more aseptic forniture (all white) and music (i.e. electronic beats), with people seated on their phones and a new young bartender, a young woman, herself on the phone, silent.
+We see the same bar, with even more aseptic furniture (all white), with people seated on their phones and a new young bartender, a young woman, herself on the phone, silent.
 Music continues during credits on black screen.
 
 ### Scenography
@@ -147,10 +147,10 @@ Each decade has its own furniture, games, lights, etc.:
 * '70s: strobe lights
 * '80s:
 * '90s: arcade videogames and karaoke
-* '00s:
-* final scene: white walls
+* '00s: DDR
+* final scene: white walls, phone rechargers on the walls
 
-(see first part of Black Mirror episode 'San Juniper' for inspiration).
+(see first part of Black Mirror episode 'San Juniper' for inspiration of same bar in different decades).
 
 ## Duration
 
@@ -172,8 +172,8 @@ About 2 minutes:
 * '60s:  [White room by Cream](https://www.youtube.com/watch?v=VR90gQ-SIaY).
 * '70s: [How deep is your love, Bee Gees](https://www.youtube.com/watch?v=XpqqjU7u5Yc).
 * '80s: [Welcome to the jungle, Guns N' Roses](https://www.youtube.com/watch?v=o1tj2zJ2Wvg).
-* '90s: [Loser, Beck](https://www.youtube.com/watch?v=YgSPaXgAdzE).
-* '00s: [Drum beat from "8 mile" movie](https://www.youtube.com/watch?v=oVb0jvnHEpQ).
+* '90s: [Alive, Pearl Jam](https://www.youtube.com/watch?v=qM0zINtulhM).
+* '00s: [Rap game, "8 mile" movie soundtrack](https://www.youtube.com/watch?v=zVVA_xJeuLw).
 * final scene: [Tired boy, Joey Pecoraro](https://www.youtube.com/watch?v=F7khiq25Xr0):
 
 ## Production
@@ -205,7 +205,3 @@ Otherwise we should have to find different bars with the same structure, at leas
 - This deliverable has no additional resources. Please edit or comment to add your relevant links.
 
 
-## Notes about this version
-* Voice of the bartender removed during the remembered scenes.
-* The bartender is also the owner of the bar.
-* Past scenes are introduced by the corresponding picture on the wall.
