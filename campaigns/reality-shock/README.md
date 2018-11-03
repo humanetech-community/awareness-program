@@ -77,11 +77,11 @@ Why is it important to adopt a "neutral" approach based on providing factual obs
 
 <!-- Sub-headers with the planned deliverables and their summaries. Update this later to reflect changes.  The second sub-header gives an example. -->
 
-### Video: ["A coffee place"](https://github.com/humanetech-community/humanetech-community-awareness/issues/8) 
+### Video: ["Caffeine Injection"](https://github.com/humanetech-community/humanetech-community-awareness/issues/8) 
 
 ### Video: ["Dirty laundry"](https://github.com/humanetech-community/humanetech-community-awareness/issues/10)
 
-### Video: ["Memories of a bartender"](https://github.com/humanetech-community/humanetech-community-awareness/issues/11)  
+### Video: ["Memories of a bartender"](memories-of-a-bartender/README.md)  
 
 ## Strategy
 
