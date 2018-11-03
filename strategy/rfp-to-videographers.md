@@ -10,7 +10,7 @@ The Humane Tech Community ("HTC"), founded by The Center for Humane Technology (
 
 One of these initiatives consists of structuring, organizing, and executing several campaigns to raise public awareness of the potential pitfalls of rapid, drastic technology adoption and its significant impact on our society.
 
-The first campaign, named _"Reality Shock"_, involves the production and distribution of a series of short, dramatic videos (each a few minutes long) aimed at shocking the audience into introspection and reflection on the hazards presented by technology (e.g., smartphone and social media addictions, privacy invasion, social credit systems, etc.) and how people may be negatively affected by these.
+The first campaign, named _"Reality Shock"_, involves the production and distribution of a series of short, dramatic videos (each a few minutes long) aimed at shocking the audience into introspection and reflection on the hazards presented by technology (e.g., smartphone and social media addictions, privacy invasion, social credit systems, distinguishing fake news from real news, etc.) and how people may be negatively affected by these.
 
 We believe that to achieve maximum distribution and impact, these videos should be produced by a professional studio. We would like to invite your company to submit a detailed proposal for the production of one of these videos, named _"Caffeine Injection"_ (working title).
 
@@ -44,7 +44,7 @@ Humane Technology Community
 
 Objective
 
-Raising awareness of the impact of technology on our society by producing videos of unsettling or jarring experiences resulting from the conflict between promised, positive results and actual, negative results. Subjects to be covered in this campaign include but are not limited to smartphone and social media addictions, privacy invasion, and social credit systems.
+Raising awareness of the impact of technology on our society by producing videos of unsettling or jarring experiences resulting from the conflict between promised, positive results and actual, negative results. Subjects to be covered in this campaign include but are not limited to smartphone and social media addictions, privacy invasion, political disruption caused by fake news, and social credit systems.
 
 Format
 
@@ -119,7 +119,7 @@ These 2.37 mins are followed by one or more messages shown against a black scree
 
 #### Post-production
 
-1. Work with HTC on the producing the final product.
+1. Work with HTC on producing the final product.
 
 #### Key issues
 
