@@ -15,3 +15,9 @@ This section is for resources that are of interest to reach the academic world, 
 
 - [Papers We Love](https://paperswelove.org/) ([github](https://github.com/papers-we-love/papers-we-love)) - A popular Github project that collects papers from the computer science community to read and discuss.
   - We can update this repository regularly with all the scientific papers that are posted to the Humane Tech [community forum](https://community.humanetech.com).
+
+## Law
+
+This section is for resources that adress rules, laws, any legal aspects that could be affected by (or affect) Humane Tech topics.
+
+- [Best practices for fair use of copyrighted content in videos](http://cmsimpact.org/code/code-best-practices-fair-use-online-video/) - A list of practices we should stick to if we are willing to fall under the case of 'fair use' of copyrighted content.
