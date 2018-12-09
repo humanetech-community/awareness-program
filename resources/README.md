@@ -1,18 +1,20 @@
 
 # Center for Humane Technology
 
-## Press releases
+## Press mentions
 
-- Feb 4, 2018, New York Times - [Early Facebook and Google Employees Form Coalition to Fight What They Built](https://www.nytimes.com/2018/02/04/technology/early-facebook-google-employees-fight-tech.html)
+- Apr 25, 2018, New York Times - [The Shift: Workers of Silicon Valley, It’s Time to Organize](https://www.nytimes.com/2018/04/25/technology/tech-workers-change.html) ([forum link](https://community.humanetech.com/t/article-references-to-the-center-for-humane-technology/163/2))
+- Apr 3, 2018 - [Opinion, Tim Wu: Don’t Fix Facebook. Replace It.](https://www.nytimes.com/2018/04/03/opinion/facebook-fix-replace.html) ([forum link](https://community.humanetech.com/t/article-references-to-the-center-for-humane-technology/163/5))
+- Feb 4, 2018, New York Times - [Early Facebook and Google Employees Form Coalition to Fight What They Built](https://www.nytimes.com/2018/02/04/technology/early-facebook-google-employees-fight-tech.html) ([forum link](https://community.humanetech.com/t/article-references-to-the-center-for-humane-technology/163))
 
 ## Videos
 
-- Oct 4, 2018, Wired - [How Humans Get Hacked: Yuval Noah Harari & Tristan Harris Talk with WIRED](https://video.wired.com/watch/yuval-harari-tristan-harris-humans-get-hacked)
-- Sep 24, 2018, SalesForce - [Dreamforce Opening Keynote: How to Stop Technology from Destabilizing the World](https://www.salesforce.com/video/3402946/)
+- Oct 4, 2018, Wired - [How Humans Get Hacked: Yuval Noah Harari & Tristan Harris Talk with WIRED](https://video.wired.com/watch/yuval-harari-tristan-harris-humans-get-hacked) ([forum link](https://community.humanetech.com/t/must-see-video-explaining-primary-raison-detre-of-the-cht-org-interview-with-tristan-harris/2770))
+- Sep 24, 2018, SalesForce - [Dreamforce Opening Keynote: How to Stop Technology from Destabilizing the World](https://www.salesforce.com/video/3402946/)  ([forum link](https://community.humanetech.com/t/must-see-video-explaining-primary-raison-detre-of-the-cht-org-interview-with-tristan-harris/2770/2))
 
 ## Advocacy
 
-- May 22, 2018, UK House of Commons - [Tristan Harris witness acount on Fake News to DCMS Committee](https://data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/digital-culture-media-and-sport-committee/fake-news/oral/83304.pdf) (PDF)
+- May 22, 2018, UK House of Commons - [Tristan Harris witness acount on Fake News to DCMS Committee](https://data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/digital-culture-media-and-sport-committee/fake-news/oral/83304.pdf) (PDF) ([forum link](https://community.humanetech.com/t/witness-account-of-tristan-harris-on-fake-news-before-uk-house-of-commons-committee/2330))
 
 # General resources
 
