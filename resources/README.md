@@ -10,6 +10,10 @@
 - Oct 4, 2018, Wired - [How Humans Get Hacked: Yuval Noah Harari & Tristan Harris Talk with WIRED](https://video.wired.com/watch/yuval-harari-tristan-harris-humans-get-hacked)
 - Sep 24, 2018, SalesForce - [Dreamforce Opening Keynote: How to Stop Technology from Destabilizing the World](https://www.salesforce.com/video/3402946/)
 
+## Advocacy
+
+- May 22, 2018, UK House of Commons - [Tristan Harris witness acount on Fake News to DCMS Committee](https://data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/digital-culture-media-and-sport-committee/fake-news/oral/83304.pdf) (PDF)
+
 # General resources
 
 This project section is for the collection of general information, like video's, images, and articles, that can be useful to future campaigns and deliverables.
