@@ -1,4 +1,4 @@
-# Memories of a bartender
+# "Memories of a Bartender" Video Deliverable
 
 <!-- Please fill in the information below each header according to the instructions.
 
@@ -21,12 +21,12 @@ The deliverable type is , in this case, 'Video'. For other deliverables this can
 
 - Name: **Memories of a bartender**
 - Type: **Video**
-- Campaign: [Reality shock](campaigns/reality-shock/README.md)
+- Campaign: [Reality shock](https://github.com/humanetech-community/humanetech-community-awareness/tree/master/campaigns/reality-shock)
 - Status: Ideation
 - Affiliation: Unofficial
 - Original idea: [micheleminno](https://community.humanetech.com/u/micheleminno/summary)
 - Coordinator: TBD
-- General discussion: [Forum topic title here](forum-topic-url)
+- General discussion: [This forum topic](https://community.humanetech.com/t/memories-of-a-bartender-awareness-video-project/3152)
 
 ## Summary
 
