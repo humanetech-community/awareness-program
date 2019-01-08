@@ -13,6 +13,7 @@ This project is maintained by the [Humane Tech Community](https://community.huma
 | [**Speak Easy**](themes/speak-easy) | [proposal](https://github.com/humanetech-community/humanetech-community-awareness/issues/19), [forum](https://community.humanetech.com/t/speak-easy-campaign-theme-introducing-language-to-change-habits-and-culture/2786) | Introducing language to change habits and culture |
 | [**Tech Wise**](themes/tech-wise) | [proposal](https://github.com/humanetech-community/humanetech-community-awareness/issues/41), [forum](https://community.humanetech.com/t/tech-wise-campaign-theme-promoting-prudent-technology-use-in-child-education/2772) | Promoting prudent technology use in child education |
 | [**Resocialized Media**](themes/resocialized-media) | [proposal](https://github.com/humanetech-community/humanetech-community-awareness/issues/61), [forum](https://community.humanetech.com/t/resocialized-media-theme-re-engineer-values-beliefs-and-norms-of-social-media/3009) | Re-engineer the social values, beliefs and norms of Social Media |
+| [**Digi Rights**](themes/digi-rights) | [proposal](https://github.com/humanetech-community/humanetech-community-awareness/issues/64), [forum](https://community.humanetech.com/t/digi-rights-applying-fundamental-human-rights-to-the-digital-realm/492) | Applying fundamental Human Rights to the Digital Realm |
 
 ## Campaigns
 
@@ -35,7 +36,7 @@ Currently no Campaigns are being prepared.
 | :--- | :---: | :---: | :--- |
 | [**Aware Prepare**](campaigns/aware-prepare) | [Dogfooding](themes/dogfooding/README.md) | [proposal](https://github.com/humanetech-community/humanetech-community-awareness/issues/24), [forum](https://community.humanetech.com/t/phone-zombies-campaign-anchoring-the-term-phone-zombies-in-common-language/2710) | Growth hacking the Awareness Campaigns project |
 | [**Eventful**](campaigns/eventful) | [Dogfooding](themes/dogfooding/README.md) | [proposal](https://github.com/humanetech-community/humanetech-community-awareness/issues/62), [forum](https://community.humanetech.com/t/eventful-campaign-foster-a-vibrant-meetup-culture-organize-exciting-events/3024) | Foster a vibrant meetup culture, organize exciting events |
-| [**Goodies**](campaigns/eventful) | [Dogfooding](themes/dogfooding/README.md) | [proposal](https://github.com/humanetech-community/humanetech-community-awareness/issues/65), [forum](https://community.humanetech.com/t/goodies-promotional-materials-for-the-humane-tech-community/3222) | Promotional materials for the Humane Tech Community |
+| [**Goodies**](campaigns/goodies) | [Dogfooding](themes/dogfooding/README.md) | [proposal](https://github.com/humanetech-community/humanetech-community-awareness/issues/65), [forum](https://community.humanetech.com/t/goodies-promotional-materials-for-the-humane-tech-community/3222) | Promotional materials for the Humane Tech Community |
 
 ### Finished
 
