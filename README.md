@@ -35,6 +35,7 @@ Currently no Campaigns are being prepared.
 | :--- | :---: | :---: | :--- |
 | [**Aware Prepare**](campaigns/aware-prepare) | [Dogfooding](themes/dogfooding/README.md) | [proposal](https://github.com/humanetech-community/humanetech-community-awareness/issues/24), [forum](https://community.humanetech.com/t/phone-zombies-campaign-anchoring-the-term-phone-zombies-in-common-language/2710) | Growth hacking the Awareness Campaigns project |
 | [**Eventful**](campaigns/eventful) | [Dogfooding](themes/dogfooding/README.md) | [proposal](https://github.com/humanetech-community/humanetech-community-awareness/issues/62), [forum](https://community.humanetech.com/t/eventful-campaign-foster-a-vibrant-meetup-culture-organize-exciting-events/3024) | Foster a vibrant meetup culture, organize exciting events |
+| [**Goodies**](campaigns/eventful) | [Dogfooding](themes/dogfooding/README.md) | [proposal](https://github.com/humanetech-community/humanetech-community-awareness/issues/65), [forum](https://community.humanetech.com/t/goodies-promotional-materials-for-the-humane-tech-community/3222) | Promotional materials for the Humane Tech Community |
 
 ### Finished
 

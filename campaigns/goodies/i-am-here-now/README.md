@@ -26,7 +26,7 @@ The deliverable type is , in this case, 'Video'. For other deliverables this can
 - Affiliation: Official
 - Original idea: [@micheleminno](https://community.humanetech.com/u/micheleminno/summary)
 - Coordinator: TBD
-- General discussion: [This forum topic](https://community.humanetech.com/t/memories-of-a-bartender-awareness-video-project/3152)
+- General discussion: [This forum topic](https://community.humanetech.com/t/im-here-now-t-shirt-project/3153)
 
 ## Summary
 

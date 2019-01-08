@@ -98,10 +98,6 @@ During a social gathering with friends, there is a strange bird sound. One frien
 
 This is an adaptation of the [animated video](https://www.youtube.com/watch?v=15nR7nhFRZE) of Steve Cutts, and not dissimilar to [I Am Legend](https://en.wikipedia.org/wiki/I_Am_Legend_(film)) with Will Smith where everyone is a Phone Zombie, and there is no one to have social interactions with
 
-### T-Shirt: [I'm here now](https://github.com/humanetech-community/humanetech-community-awareness/tree/master/campaigns/phone-zombies/i-am-here-now)
-
-A cool t-shirt design to raise awareness of how smartphones are detrmimental to interactions with other people in real-life social engagements. The t-shirt can be ordered by anyone, or given as a gift, and also promotes the [Humane Tech Community](https://community.humanetech.com) with its branding on the back side.
-
 ### Images
 
 A series of images depicting memes to share on social media, as well as images to use in mastheads and link previews of blog posts and articles
