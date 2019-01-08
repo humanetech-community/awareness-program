@@ -17,7 +17,7 @@
       Also add the link to community forum topic that is used for general discussion. -->
 
 - Name: **Aware Prepare**
-- Theme: [Dogfooding](themes/dogfooding/README.md)
+- Theme: [Dogfooding](https://github.com/humanetech-community/humanetech-community-awareness/tree/master/themes/dogfooding/README.md)
 - Status: Launched
 - Affilliation: Official
 - Original idea: N/A

@@ -17,7 +17,7 @@
       Also add the link to community forum topic that is used for general discussion. -->
 
 - Name: **Computer Says No**
-- Theme: [Speak Easy](themes/speak-easy/README.md)
+- Theme: [Speak Easy](https://github.com/humanetech-community/humanetech-community-awareness/tree/master/themes/speak-easy/README.md)
 - Status: Ideation
 - Affiliation: Official
 - Original idea: [aschrijver](https://community.humanetech.com/u/aschrijver/summary) 

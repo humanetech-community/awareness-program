@@ -57,7 +57,7 @@ The message posed to the viewer is "Watch how we used to have meaningful, funny,
 - This deliverable does not require additional strategy. Please refer to [campaign strategy](url-to-campaign-readme#strategy).
  -->
 
-- This deliverable does not require additional strategy. Please refer to [campaign strategy](campaigns/reality-shock/README.md#strategy).
+- This deliverable does not require additional strategy. Please refer to [campaign strategy](https://github.com/humanetech-community/humanetech-community-awareness/tree/master/campaigns/reality-shock/README.md#strategy).
 
 ## Script
 

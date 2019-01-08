@@ -86,9 +86,9 @@ Memes:
 
 <!-- Hyperlinked ToC to past, ongoing and future campaigns. Update this later to reflect changes. -->
 
-- [Phone Zombies](campaigns/phone-zombies/README.md) - Tracking the rise (and facilitating the fall) of the Phone Zombie
-- [Computer Says No](campaigns/computer-says-no/README.md) - Little Britain's meme, but with a Humane Tech twist
-- [Urban Dictionary](campaigns/urban-dictionary/README.md) - TODO Website where all language terms and memes are presented
+- [Phone Zombies](https://github.com/humanetech-community/humanetech-community-awareness/tree/master/campaigns/phone-zombies/README.md) - Tracking the rise (and facilitating the fall) of the Phone Zombie
+- [Computer Says No](https://github.com/humanetech-community/humanetech-community-awareness/tree/master/campaigns/computer-says-no/README.md) - Little Britain's meme, but with a Humane Tech twist
+- [Urban Dictionary](campaigns/urban-dictionary/README.md) - (TODO) Website where all language terms and memes are presented
 
 ## Resources
 

@@ -67,7 +67,7 @@ This theme is based on the following principles:
 
 <!-- Hyperlinked ToC to past, ongoing and future campaigns. Update this later to reflect changes. -->
 
-- [Reality Shock](campaigns/reality-shock/README.mdl) - Using short, dramatic video's to shock people into awareness
+- [Reality Shock](https://github.com/humanetech-community/humanetech-community-awareness/tree/master/campaigns/reality-shock/README.mdl) - Using short, dramatic video's to shock people into awareness
 
 ## Resources
 

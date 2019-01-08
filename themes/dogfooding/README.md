@@ -77,9 +77,9 @@ This theme is about raising the awareness with these people:
 
 <!-- Hyperlinked ToC to past, ongoing and future campaigns. Update this later to reflect changes. -->
 
-- [Aware Prepare](campaigns/aware-prepare/README.md) - Growth hacking the Awareness Campaigns project
-- [Awareness Hackathons](campaigns/awareness-hackathons/README.md) - Package for Meetup groups to organize Awareness Campaign events
-- [Global Awareness Hackathon](campaigns/global-awareness-hackathon/README.md) - Parallel Awareness Campaign event involving all Meetup groups
+- [Aware Prepare](https://github.com/humanetech-community/humanetech-community-awareness/tree/master/campaigns/aware-prepare/README.md) - Growth hacking the Awareness Campaigns project
+- [Awareness Hackathons](campaigns/awareness-hackathons/README.md) - (TODO) Package for Meetup groups to organize Awareness Campaign events
+- [Global Awareness Hackathon](campaigns/global-awareness-hackathon/README.md) - (TODO) Parallel Awareness Campaign event involving all Meetup groups
 
 ## Resources
 

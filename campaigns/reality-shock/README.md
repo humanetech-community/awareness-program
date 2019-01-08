@@ -17,7 +17,7 @@
       Also add the link to community forum topic that is used for general discussion. -->
 
 - Name: **Reality Shock**
-- Theme: [Mankind 2.0](https://github.com/humanetech-community/humanetech-community-awareness/issues/12)
+- Theme: [Mankind 2.0](https://github.com/humanetech-community/humanetech-community-awareness/tree/master/themes/mankind-2.0)
 - Status: Ideation
 - Affiliation: Unofficial
 - Original idea: [Georges](https://community.humanetech.com/u/georges/summary)
@@ -81,7 +81,7 @@ Why is it important to adopt a "neutral" approach based on providing factual obs
 
 ### Video: ["Dirty laundry"](https://github.com/humanetech-community/humanetech-community-awareness/issues/10)
 
-### Video: ["Memories of a bartender"](memories-of-a-bartender/README.md)  
+### Video: ["Memories of a bartender"](https://github.com/humanetech-community/humanetech-community-awareness/tree/master/campaigns/reality-shock/memories-of-a-bartender/README.md)  
 
 ## Strategy
 
