@@ -95,3 +95,5 @@ Memes:
 <!-- (optional) Links to relevant folders, files and external information, or leave the placeholder text. -->
 
 - The [Urban Dictionary](https://www.urbandictionary.com/) can be a great source of terminology.
+
+- Some possible candidates in this interactive matrix of [Possible tech-induced cognitive-behavioural disorders](https://informationisbeautiful.net/visualizations/intermental/).
