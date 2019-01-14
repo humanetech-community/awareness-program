@@ -97,3 +97,5 @@ Memes:
 - The [Urban Dictionary](https://www.urbandictionary.com/) can be a great source of terminology.
 
 - Some possible candidates in this interactive matrix of [Possible tech-induced cognitive-behavioural disorders](https://informationisbeautiful.net/visualizations/intermental/).
+
+- Word of the year 2018 in Cambridge Dictionary "Nomophobia". See [@BetterTech on Twitter](https://twitter.com/BetterTec_h/status/1080790373516095488).
