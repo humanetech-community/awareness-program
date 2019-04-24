@@ -1,6 +1,6 @@
 # Humane Tech Awareness Campaigns [![Humane Tech](https://raw.githubusercontent.com/engagingspaces/awesome-humane-tech/master/humane-tech-badge.svg?sanitize=true)](https://github.com/engagingspaces/awesome-humane-tech)
 
-[![Humane Tech Community](https://raw.githubusercontent.com/humanetech-community/humanetech-community-artwork/master/community-artwork/logos/humanetech-community-logo.svg?sanitize=true)](https://humanetech.community)
+[![Humane Tech Community](https://raw.githubusercontent.com/humanetech-community/humanetech-community-artwork/master/logos/humanetech-community-logo.svg?sanitize=true)](https://humanetech.community)
 
 This project is maintained by the [Humane Tech Community](https://community.humanetech.com). In this space our members collaborate to create (social) media campaigns that aim to inform the wider public on the problems that come with modern technology and the need to address these by applying Humane Technology. Of course, non-members can contribute just as well, though - if you are as concerned as us about the impact of technology on our society - we heartily invite you to join our community!
 
