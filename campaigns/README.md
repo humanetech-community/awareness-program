@@ -4,8 +4,8 @@ The subfolders in this project section contain the materials related to individu
 
 ## Ongoing campaigns
 
-The overview of campaigns can be found in the main project README: [Campaigns](https://github.com/humanetech-community/humanetech-community-awareness/tree/master/README.md#campaigns)
+The overview of campaigns can be found on the Community Hub: [Campaigns](https://humanetech.community/awareness-program/campaigns/)
 
 ## Campaign ideas
 
-To add an idea fo a new Campaign, first create a topic on our [Community Forum](https://community.humanetech.com/c/awareness/projects-campaigns) in the `Awareness > Projects & Campaigns` category. Once your topic is approved by a moderator, and has been discussed in the forum, an entry may be added here to be further elaborated.
+To add an idea fo a new Campaign, first create a topic on our community forum in the (https://community.humanetech.com/c/focus/awareness-program) category. Once your topic is approved by a moderator, and has been discussed in the forum, an entry may be added here to be further elaborated.
